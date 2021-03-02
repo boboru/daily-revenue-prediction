@@ -26,6 +26,6 @@ data source: [course page](https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/pr
 - Feature Selection (Regression and Classification)
     * (We don't perform dimension reduction here, since we aim to hold the explainability.)
 - Baseline Model Building (Regression and Classification)
-    * involviing walk-forward cross-validation
+    * involving walk-forward cross-validation
 
 2. The `report.pdf` file contains the comprehensive work flow, EDA result, model comparison and our suggestion.
