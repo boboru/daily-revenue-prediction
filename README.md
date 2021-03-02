@@ -12,20 +12,20 @@ data source: [course page](https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/pr
 # Feature
 
 1. The `main.ipynb` file contains the following content:
-- EDA
-- Data Preprocessing
-    * Missing Values Handling
-    * Outlier and Future Data Removal
-    * Unique Value of Categorical Features Reduction
-- Feature Engineering
-    * Feature Generation
-    * One-Hot Encoding
-    * Log Transformation
-    * Interaction
-    * Standardization
-- Feature Selection (Regression and Classification)
-    * (We don't perform dimension reduction here, since we aim to hold the explainability.)
-- Baseline Model Building (Regression and Classification)
-    * involving walk-forward cross-validation
+    - EDA
+    - Data Preprocessing
+        * Missing Values Handling
+        * Outlier and Future Data Removal
+        * Unique Value of Categorical Features Reduction
+    - Feature Engineering
+        * Feature Generation
+        * One-Hot Encoding
+        * Log Transformation
+        * Interaction
+        * Standardization
+    - Feature Selection (Regression and Classification)
+        * (We don't perform dimension reduction here, since we aim to hold the explainability.)
+    - Baseline Model Building (Regression and Classification)
+        * involving walk-forward cross-validation
 
 2. The `report.pdf` file contains the comprehensive work flow, EDA result, model comparison and our suggestion.
